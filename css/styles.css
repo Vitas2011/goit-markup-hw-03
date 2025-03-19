@@ -43,6 +43,16 @@ a {
     align-items: center;
 }
 
+.nav-list {
+    display: flex;
+    align-items: center;
+}
+
+.address-ul {
+    display: flex;
+    align-items: center;
+}
+
 .logo {
     font-size: 18px;
     font-weight: 700;
@@ -53,7 +63,7 @@ a {
     color: #4d5ae5;
 }
 
-.studio {
+.studio-web {
 color: #2e2f42;
 }
 
