@@ -48,10 +48,10 @@ a {
     align-items: center;
 }
 
-.address-ul {
+/*.address-ul {
     display: flex;
     align-items: center;
-}
+}*/
 
 .logo {
     font-size: 18px;
