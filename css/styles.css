@@ -18,13 +18,18 @@ ul {
  padding: 0;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
 a {
     text-decoration: none;
 }
 
 /* Header */
 .header {
-    justify-content: space-between;
+   /* justify-content: space-between;*/
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .logo {
