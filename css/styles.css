@@ -84,26 +84,21 @@ color: #2e2f42;
     color:#2e2f42;
  }
 
- .nav-studio-index:hover,
- .nav-studio-index:focus {
-    color: #404bbf;
- }
-
-
  .adres-header {
     font-style: normal;
+    margin-left: auto;
 }
 
 .adres-contact {
+    display: block;
+    padding: 24px 0;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.adres-contact {
     color: #434455;  
 }
-
+ .nav-studio-index:hover,
+ .nav-studio-index:focus,
  .adres-contact:hover,
  .adres-contact:focus {
     color: #404bbf;
