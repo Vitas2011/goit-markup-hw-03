@@ -8,8 +8,8 @@ body {
 
 .container {
 max-width: 1158px;
-padding: 0 15px;
-margin: 0 auto;
+/*padding: 0 15px;
+margin: 0 auto;*/
 }
 
 ul,
@@ -112,8 +112,6 @@ color: #2e2f42;
 
 .hero-container {
     display: flex;
-    width: 1440px;                              
-    height: 600px;
 }
 
 .hero-title {
