@@ -112,6 +112,7 @@ color: #2e2f42;
 
 .hero-container {
     display: flex;
+    height: 600px;
 }
 
 .hero-title {
@@ -123,7 +124,6 @@ color: #2e2f42;
     color: #ffffff;
     margin: 0 auto;
     max-width: 496px ;
-    
 }
 
 .hero-button {
