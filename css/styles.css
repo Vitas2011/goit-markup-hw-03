@@ -29,7 +29,6 @@ a {
 
 /* Header */
 .header {
-   justify-content: space-between;
     border-bottom: 1px solid #e7e9fc;
 }
 
@@ -117,7 +116,9 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #ffffff;
     margin: 0 auto;
-    max-width: 496px ;
+    max-width: 496px;
+    padding-top: 188px;
+    padding-left: 472px;
 }
 
 .hero-button {
