@@ -115,6 +115,7 @@ color: #2e2f42;
 }
 
 .hero-title {
+    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -122,7 +123,7 @@ color: #2e2f42;
     color: #ffffff;
     margin: 0 auto;
     max-width: 496px ;
-    padding: 188px 472px 292px 472px;
+    
 }
 
 .hero-button {
