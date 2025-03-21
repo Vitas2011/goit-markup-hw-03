@@ -112,6 +112,8 @@ color: #2e2f42;
 
 .hero-container {
     display: flex;
+    width: 1440px;                              
+    height: 600px;
 }
 
 .hero-title {
@@ -136,6 +138,8 @@ color: #2e2f42;
     cursor: pointer;
     margin: 0 auto;
     text-align: center;
+    border-radius: 4px;
+    padding: 16px 32px;
 }
 
 .hero-button:hover,
