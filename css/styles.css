@@ -208,10 +208,13 @@ padding: 120px 0 120px;
 
 /* Footer */
 .footer {
+    padding: 100px 0 100px;
     background-color: #2E2F42;
 }
 
 .logo {  
+    display: inline-block;
+    margin-bottom: 16px;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
