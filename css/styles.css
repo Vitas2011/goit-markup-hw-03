@@ -115,7 +115,7 @@ color: #2e2f42;
 }
 
 .hero-title {
-    max-width: 496px
+    max-width: 496px;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -148,7 +148,12 @@ color: #2e2f42;
 }
 
 /* Features */
+.features {
+padding: 120px 0 120px;
+}
+
 .features-list {
+    display: flex;
     justify-content: space-between;
 }
 
