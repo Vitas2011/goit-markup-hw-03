@@ -116,6 +116,8 @@ color: #2e2f42;
     text-align: center;
    letter-spacing: 0.02em;
     color: #ffffff;
+    margin: 0 auto;
+    max-width: 496px ;
 }
 
 .hero-button {
@@ -126,6 +128,8 @@ color: #2e2f42;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .hero-button:hover,
