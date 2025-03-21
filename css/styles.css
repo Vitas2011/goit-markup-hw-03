@@ -107,21 +107,26 @@ color: #2e2f42;
 /* Hero Section */
 .hero {
     background-color: #2e2f42;
+    padding: 188px 0 188px;
 }
 
 .hero-title {
+    max-width: 496px
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
     margin: 0 auto;
-    max-width: 496px;
     padding-top: 188px;
     padding-left: 472px;
 }
 
 .hero-button {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
