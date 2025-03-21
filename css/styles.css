@@ -110,11 +110,15 @@ color: #2e2f42;
     background-color: #2e2f42;
 }
 
+.hero-container {
+    display: flex;
+}
+
 .hero-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-   letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
     color: #ffffff;
     margin: 0 auto;
     max-width: 496px ;
