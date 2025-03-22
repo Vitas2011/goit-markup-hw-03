@@ -176,7 +176,7 @@ padding: 120px 0 120px;
     gap: 24px;
 }
 
-.features-list {
+.features-paragraph {
     flex-basis: calc((100%-72)/4);
 }
 
