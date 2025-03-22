@@ -139,11 +139,12 @@ color: #2e2f42;
     cursor: pointer;
     border: none;
     min-width: 169px;
-    min-height: 56px;
+    /*min-height: 56px;*/
     border-radius: 4px;
     padding: 16px 32px;
     align-items: center;
     margin: 48px 635px 188px 636px;
+    height: 56px;
 }
 
 .hero-button:hover,
@@ -218,10 +219,24 @@ padding: 120px 0 120px;
 }
 
 .team-list-section {
+    border-radius: 0px 0px 4px 4px;
     background-color: #FFFFFF;
     flex-basis: calc((100%-72)/4);
 }
 
+.team-people {
+ padding-top: 32px;
+ padding-bottom: 32px;
+}
+
+.features-head {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.features-p {
+    text-align: center;
+}
 
 /* Portfolio */
 
