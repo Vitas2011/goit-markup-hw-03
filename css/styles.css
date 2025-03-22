@@ -187,6 +187,7 @@ padding: 120px 0 120px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    max-width: 264px;
 }
 
 .features-p {
@@ -194,6 +195,7 @@ padding: 120px 0 120px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    max-width: 264px;
 }
 
 /* Team */
@@ -277,7 +279,6 @@ padding: 120px 0 120px;
  .portfolio-app {
     margin-bottom: 8px;
  }
-    /*flex-basis: calc((100%-96)/6);*/
     
 
 /* Footer */
@@ -305,5 +306,5 @@ padding: 120px 0 120px;
     color: #f4f4fd;
     max-width: 264px;
     margin-top: 16px;
-    /*margin: 0 auto;*/
+    margin: 0 auto;
 }
