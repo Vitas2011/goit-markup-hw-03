@@ -158,7 +158,7 @@ padding: 120px 0 120px;
 }
 
 .visually-hidden {
-visually: hidden;
+visibility: hidden;
 }
 
 .features-list {
