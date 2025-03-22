@@ -303,4 +303,6 @@ padding: 120px 0 120px;
 
 .parahraf-footer {
     color: #f4f4fd;
+    max-width: 264px;
+    margin-top: 16px;
 }
