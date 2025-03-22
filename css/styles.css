@@ -111,7 +111,7 @@ color: #2e2f42;
 /* Hero Section */
 .hero {
     background-color: #2e2f42;
-  /*  padding: 188px 0 188px;*/
+    padding: 188px 0 188px;
 }
 
 .hero-title {
@@ -128,6 +128,7 @@ color: #2e2f42;
 }
 
 .hero-button {
+    display: block;
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
@@ -140,8 +141,8 @@ color: #2e2f42;
     min-height: 56px;
     border-radius: 4px;
     padding: 16px 32px;
-   /* text-align: center;*/
     align-items: center;
+    margin: 356px 635px 188px 636px;
 }
 
 .hero-button:hover,
@@ -154,9 +155,18 @@ color: #2e2f42;
 padding: 120px 0 120px;
 }
 
-.benefits {
-    visibility: hidden;
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip:rect(0 ,0 ,0 ,0);
+    white-space: nowrap;
+    border: 0;
 }
+
 
 .features-list {
     display: flex;
@@ -169,6 +179,7 @@ padding: 120px 0 120px;
 }
 
 .features-head {
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -186,9 +197,12 @@ padding: 120px 0 120px;
 /* Team */
 .team {
     background-color: #F4F4FD;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .team-title {
+    margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -236,7 +250,7 @@ padding: 120px 0 120px;
 
 .logo {  
     display: inline-block;
-   /* margin-bottom: 16px;*/
+    margin-bottom: 16px;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
