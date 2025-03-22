@@ -134,7 +134,7 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-   /* cursor: pointer;*/
+    cursor: pointer;
     border: none;
     min-width: 169px;
     min-height: 56px;
@@ -154,9 +154,18 @@ color: #2e2f42;
 padding: 120px 0 120px;
 }
 
+.benefits {
+    visibility: hidden;
+}
+
 .features-list {
     display: flex;
     justify-content: space-between;
+    gap: 24px;
+}
+
+.features-list {
+    flex-basis: calc((100%-72)/4);
 }
 
 .features-head {
@@ -188,8 +197,14 @@ padding: 120px 0 120px;
     color: #2e2f42;
 }
 
+.team-list {
+    display: flex;
+    gap: 24px;
+}
+
 .team-list-section {
     background-color: #FFFFFF;
+    flex-basis: calc((100%-72)/4);
 }
 
 
@@ -206,6 +221,11 @@ padding: 120px 0 120px;
  .portfolio-list {
     grid-template-columns: repeat(3, 1fr);
     list-style: none;
+ }
+
+ .portfolio-start {
+    flex-basis: calc((100%-96)/6);
+    flex-wrap: wrap;
  }
 
 /* Footer */
