@@ -115,15 +115,16 @@ color: #2e2f42;
 }
 
 .hero-title {
+    font-weight: 700px;
+
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
 
     margin: 0 auto;
-   /* padding-left: 472px;*/
     max-width: 496px;
-    /*margin-bottom: 32px;*/
+    margin-bottom: 32px;
     text-align: center;
 }
 
