@@ -127,44 +127,27 @@ color: #2e2f42;
     text-align: center;
 }
 
-/*.hero-butto {
-    display: block;
-    background-color: #4D5AE5;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-    border: none;
-    min-width: 169px;
-    min-height: 56px;
-    border-radius: 4px;
-    padding: 16px 32px;
-    align-items: center;
-    margin: 48px 0 188px 0;
-    height: 56px;
-    margin: 0 auto;
-}*/
+.hero-butto {
+display: block;
+}
 
 .but-hero {
-  /*  display: block;*/
-        background-color: #4D5AE5;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        color: #ffffff;
-        cursor: pointer;
-        border: none;
-        min-width: 169px;
-        min-height: 56px;
-        border-radius: 4px;
-        padding: 16px 32px;
-        align-items: center;
-        margin: 48px 0 188px 0;
-        height: 56px;
-        margin: 0 auto;
+  background-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+  border: none;
+  min-width: 169px;
+  min-height: 56px;
+  border-radius: 4px;
+  padding: 16px 32px;
+  align-items: center;
+  margin: 48px 0 188px 0;
+  height: 56px;
+  margin: 0 auto;
 }
 
 .hero-button:hover,
@@ -250,6 +233,11 @@ padding: 120px 0 120px;
 .team-people {
  padding-top: 32px;
  padding-bottom: 32px;
+}
+
+.features-head,
+.features-p {
+    text-align: center;
 }
 
 /* Portfolio */
