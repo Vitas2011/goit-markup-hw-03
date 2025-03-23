@@ -181,16 +181,17 @@ padding: 120px 0 120px;
 }
 
 .features-head {
-    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     max-width: 264px;
+    margin-bottom: 8px;
 }
 
 .features-p {
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -289,13 +290,16 @@ padding: 120px 0 120px;
 
 .logo {  
     display: inline-block;
-    margin-bottom: 16px;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+
+.logo-web {
+margin-bottom: 16px;
 }
 
 .studio {
@@ -306,5 +310,5 @@ padding: 120px 0 120px;
     color: #f4f4fd;
     max-width: 264px;
     margin-top: 16px;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
 }
