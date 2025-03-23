@@ -109,15 +109,11 @@ color: #2e2f42;
 
 
 /* Hero Section */
-/*.hero {
-    background-color: #2e2f42;
-    padding: 188px 0 188px;
-}*/
-
-.hero-container {
+hero {
     background-color: #2e2f42;
     padding: 188px 0 188px;
 }
+
 
 .hero-title {
     font-weight: 700px;
