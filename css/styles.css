@@ -127,11 +127,8 @@ color: #2e2f42;
     text-align: center;
 }
 
-.hero-butto {
-display: block;
-}
-
 .but-hero {
+  display: block;
   background-color: #4D5AE5;
   font-weight: 500;
   font-size: 16px;
@@ -145,7 +142,7 @@ display: block;
   border-radius: 4px;
   padding: 16px 32px;
   align-items: center;
-  margin: 48px 635px 188px 636px;
+ /* margin: 48px 635px 188px 636px;*/
   height: 56px;
   margin: 0 auto;
 }
