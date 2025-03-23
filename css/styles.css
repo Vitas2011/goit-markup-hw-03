@@ -71,7 +71,7 @@ img {
 .header-logo {
     padding: 24px 0;
     margin-right: 76px;
-    margin-bottom: 0;
+    /*margin-bottom: 0;*/
 }
 
 .studio-web {
@@ -310,5 +310,5 @@ margin-bottom: 16px;
     color: #f4f4fd;
     max-width: 264px;
     margin-top: 16px;
-    margin: 0 auto;
+   /* margin: 0 auto;*/
 }
