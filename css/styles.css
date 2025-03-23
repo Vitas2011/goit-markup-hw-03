@@ -109,7 +109,12 @@ color: #2e2f42;
 
 
 /* Hero Section */
-.hero {
+/*.hero {
+    background-color: #2e2f42;
+    padding: 188px 0 188px;
+}*/
+
+.hero-container {
     background-color: #2e2f42;
     padding: 188px 0 188px;
 }
@@ -135,7 +140,7 @@ color: #2e2f42;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    /*border: none;
+    border: none;
     min-width: 169px;
     min-height: 56px;
     border-radius: 4px;
@@ -143,7 +148,7 @@ color: #2e2f42;
     align-items: center;
     margin: 48px 0 188px 0;
     height: 56px;
-    margin: 0 auto;*/
+    margin: 0 auto;
 }
 
 .hero-button:hover,
