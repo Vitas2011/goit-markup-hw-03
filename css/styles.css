@@ -147,7 +147,7 @@ display: block;
   align-items: center;
   margin: 48px 635px 188px 636px;
   height: 56px;
-  /*margin: 0 auto;*/
+  margin: 0 auto;
 }
 
 .hero-button:hover,
