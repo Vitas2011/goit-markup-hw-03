@@ -142,7 +142,7 @@ color: #2e2f42;
   border-radius: 4px;
   padding: 16px 32px;
   align-items: center;
- 
+  margin-top: 48px;
   height: 56px;
   margin: 0 auto;
 }
@@ -305,5 +305,4 @@ margin-bottom: 16px;
 .parahraf-footer {
     color: #f4f4fd;
     max-width: 264px;
-   /* margin-top: 16px;*/
 }
